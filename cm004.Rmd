@@ -1,6 +1,6 @@
 ---
 title: "cm004"
-output: github_document
+output: pdf_document
   html_document: 
     keep_md: yes
 ---
